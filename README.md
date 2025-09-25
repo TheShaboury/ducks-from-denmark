@@ -410,10 +410,6 @@ When adding new features:
 3. Add proper documentation
 4. Update this README
 
-## 📝 Author
-
-Ahmed El Shaboury - 2024
-
 ---
 
 This modular structure transforms a single-file ESP32 program into a professional, maintainable codebase suitable for complex robotics projects.
